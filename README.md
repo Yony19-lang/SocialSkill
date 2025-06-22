@@ -1,3 +1,3 @@
-# flutter_application_1
+# Social_App
 
 A new Flutter project.
